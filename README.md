@@ -1,16 +1,69 @@
-## Hi there 👋
+# Andrew Gostishchev
 
-<!--
-**arterialist/arterialist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Architect | Co-Founder & CTO | AI Researcher**
 
-Here are some ideas to get you started:
+Currently exploring the intersection of neuroscience and artificial intelligence through brain-inspired computational models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Research
+
+**Brain-Inspired Neural Networks & AI**
+- **Research Presentation**: [Towards Artificial Life](https://al.arteriali.st)
+- **Open Source Model**: [Neuron Model Implementation](https://github.com/arterialist/neuron-model)
+- **Latest Publication**: [Building a Brain-Inspired Neuron: Early Results from a Different Approach to AI](https://medium.com/@arterialist/building-a-brain-inspired-neuron-early-results-from-a-different-approach-to-ai-ec66a6406aac)
+
+I'm developing novel approaches to artificial intelligence by studying and modeling biological neural networks, focusing on creating more efficient and adaptable AI systems.
+
+## Recent Projects & Tech Focus
+
+**Callegram - Telegram Mini App** *(2023 - Present)*
+- Award-winning appointment booking platform within super apps
+- **Stack**: FastAPI, PostgreSQL, Docker, JavaScript, Python
+- **Architecture**: Full-stack development with REST APIs and OOP design
+- Scalable booking system handling rapid user growth
+
+**Tonpay - Decentralized Payment System** *(2022 - 2023)*
+- On-chain payment infrastructure for TON Blockchain ecosystem  
+- **Stack**: Smart Contracts, FunC, TypeScript, React.js, Web3
+- **Focus**: DApps development, blockchain integration, TVM Virtual Machine
+- Built from concept to deployment with DevOps and CI/CD pipeline
+
+**Pokemod - Technology Innovation** *(2020 - 2023)*
+- Led development of scalable software architecture and team management
+- **Stack**: TypeScript, React.js, PostgreSQL, Android, Docker
+- **Practices**: Agile methodologies, code review, full-stack development
+- Implemented cutting-edge tech solutions and development workflows
+
+## Research Interests
+
+- **Artificial Intelligence & Machine Learning**
+- **Neuroscience & Computational Biology**
+- **Decentralized & Distributed Systems**
+- **Brain-Computer Interfaces**
+
+## Technical Expertise
+
+**Languages**: TypeScript, JavaScript, C#, Python, FunC, Java, Kotlin
+
+**Frameworks**: React, Angular, Ionic, .NET
+
+**Blockchain**: The Open Network, Smart Contracts
+
+**AI/ML**: Neural Networks, Deep Learning, Biologically-Inspired AI
+
+**Architecture**: Full-Stack Development, System Design, Scalable Platforms
+
+## Key Achievements
+
+- **Callegram**: Industry award winner with 300% user adoption growth
+- **Pokemod**: Led technical initiatives driving 5x revenue increase
+- **Tonpay**: Revolutionized TON payments ecosystem
+
+## Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/arterialist](https://linkedin.com/in/arterialist)
+- **Email**: contact@arteriali.st
+- **Location**: Kuala Lumpur, Malaysia
+
+---
+
+*"Building the future of AI by understanding the intelligence that already exists in nature."*
