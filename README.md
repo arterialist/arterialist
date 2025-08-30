@@ -9,7 +9,7 @@ Currently exploring the intersection of neuroscience and artificial intelligence
 **Brain-Inspired Neural Networks & AI**
 - **Research Presentation**: [Towards Artificial Life](https://al.arteriali.st)
 - **Open Source Model**: [Neuron Model Implementation](https://github.com/arterialist/neuron-model)
-- **Latest Publication**: [Building a Brain-Inspired Neuron: Early Results from a Different Approach to AI](https://medium.com/@arterialist/building-a-brain-inspired-neuron-early-results-from-a-different-approach-to-ai-ec66a6406aac)
+- **Latest Publication**: [Brain-Inspired AI: Early Results from a Radical New Neuron Model](https://hackernoon.com/brain-inspired-ai-early-results-from-a-radical-new-neuron-model)
 
 I'm developing novel approaches to artificial intelligence by studying and modeling biological neural networks, focusing on creating more efficient and adaptable AI systems.
 
