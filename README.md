@@ -1,6 +1,6 @@
 # Andrew Gostishchev
 
-**Senior Software Architect | Co-Founder & CTO | AI Researcher**
+**Senior Software Architect | AI Researcher**
 
 Currently exploring the intersection of neuroscience and artificial intelligence through brain-inspired computational models.
 
@@ -15,7 +15,7 @@ I'm developing novel approaches to artificial intelligence by studying and model
 
 ## Recent Projects & Tech Focus
 
-**Callegram - Telegram Mini App** *(2023 - Present)*
+**Callegram - Telegram Mini App** *(2023 - 2025)*
 - Award-winning appointment booking platform within super apps
 - **Stack**: FastAPI, PostgreSQL, Docker, JavaScript, Python
 - **Architecture**: Full-stack development with REST APIs and OOP design
