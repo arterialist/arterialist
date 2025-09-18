@@ -1,6 +1,6 @@
 # Andrew Gostishchev
 
-**Senior Software Architect | AI Researcher**
+**Senior Software Engineer | AI Researcher**
 
 Currently exploring the intersection of neuroscience and artificial intelligence through brain-inspired computational models.
 
