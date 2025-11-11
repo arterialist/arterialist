@@ -17,7 +17,7 @@ I'm developing novel approaches to artificial intelligence by studying and model
 
 **Callegram - Telegram Mini App** *(2023 - 2025)*
 - Award-winning appointment booking platform within super apps
-- **Stack**: FastAPI, PostgreSQL, Docker, JavaScript, Python
+- **Stack**: Python, FastAPI, PostgreSQL, Docker, Redis, JavaScript
 - **Architecture**: Full-stack development with REST APIs and OOP design
 - Scalable booking system handling rapid user growth
 
@@ -29,8 +29,8 @@ I'm developing novel approaches to artificial intelligence by studying and model
 
 **Pokemod - Technology Innovation** *(2020 - 2023)*
 - Led development of scalable software architecture and team management
-- **Stack**: TypeScript, React.js, PostgreSQL, Android, Docker
-- **Practices**: Agile methodologies, code review, full-stack development
+- **Stack**: TypeScript, React.js, Python, FastAPI, PostgreSQL, Android, Docker
+- **Practices**: Agile methodologies, code review, full-stack development, team leadership
 - Implemented cutting-edge tech solutions and development workflows
 
 ## Research Interests
@@ -44,11 +44,11 @@ I'm developing novel approaches to artificial intelligence by studying and model
 
 **Languages**: TypeScript, JavaScript, C#, Python, FunC, Java, Kotlin
 
-**Frameworks**: React, Angular, Ionic, .NET
+**Frameworks**: React, Angular, Next.js, FastAPI, Flask,  .NET
 
 **Blockchain**: The Open Network, Smart Contracts
 
-**AI/ML**: Neural Networks, Deep Learning, Biologically-Inspired AI
+**AI/ML**: LLMs, Neural Networks, Deep Learning, Biologically-Inspired AI
 
 **Architecture**: Full-Stack Development, System Design, Scalable Platforms
 
